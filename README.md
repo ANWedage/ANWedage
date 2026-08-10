@@ -13,7 +13,7 @@
 ### ⚡ About Me
 
 - 🔭 I'm currently building **full-stack web apps** and **AI-powered desktop utilities**
-- 🧠 Deep into **local and cloud AI integration** for practical, offline-first tools
+- 🧠 Deep into **local AI integration** for practical, offline-first tools
 - 🛠️ Comfortable across the stack — from **WPF/.NET desktop apps** to **React/Node.js web apps**
 - 💬 Ask me about **Full-Stack Development, MVVM architecture, or AI tool integration**
 - 📌 Always shipping something new for the **portfolio** — check out my [projects below](#-featured-projects)
@@ -76,7 +76,7 @@
 
 ---
 
-### 📫 Let's Connect
+### 🤝 Let's Build Something Together
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adeepa-wedage"><img src="https://img.shields.io/badge/-Adeepa%20Wedage-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
@@ -84,4 +84,4 @@
   <a href="mailto:adeepanethwedage10171@gmail.com"><img src="https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>⭐ From FolderFlow to full-stack platforms — building things I'd actually use, one commit at a time.</i></p>
+<p align="center"><i>💡 Got an idea, an opportunity, or just want to talk tech? My inbox is always open.</i></p>
