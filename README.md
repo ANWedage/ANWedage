@@ -13,7 +13,7 @@
 ### ⚡ About Me
 
 - 🔭 I'm currently building **full-stack web apps** and **AI-powered desktop utilities**
-- 🧠 Deep into **local AI integration** for practical, offline-first tools
+- 🧠 Deep into **local and cloud AI integration** for practical, offline-first tools
 - 🛠️ Comfortable across the stack — from **WPF/.NET desktop apps** to **React/Node.js web apps**
 - 💬 Ask me about **Full-Stack Development, MVVM architecture, or AI tool integration**
 - 📌 Always shipping something new for the **portfolio** — check out my [projects below](#-featured-projects)
