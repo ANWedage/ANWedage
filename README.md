@@ -2,10 +2,13 @@
 <h3 align="center">🚀 Full-Stack Developer | 🖥️ .NET/WPF Desktop Craftsman | 🤖 AI-Integrated Tool Builder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ANWedage&label=Profile%20Views&color=0e75b6&style=flat" alt="ANWedage" />
   <a href="https://www.linkedin.com/in/adeepa-wedage"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://adeepa-wedage.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
   <a href="mailto:adeepanethwedage10171@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ANWedage&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="ANWedage" />
 </p>
 
 ---
@@ -64,6 +67,11 @@
 ---
 
 ### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ANWedage&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANWedage&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ANWedage&theme=tokyonight&hide_border=true" />
