@@ -13,7 +13,7 @@
 ### ⚡ About Me
 
 - 🔭 I'm currently building **full-stack web apps** and **AI-powered desktop utilities**
-- 🧠 Deep into **Ollama-based local AI integration** for practical, offline-first tools
+- 🧠 Deep into **local AI integration** for practical, offline-first tools
 - 🛠️ Comfortable across the stack — from **WPF/.NET desktop apps** to **React/Node.js web apps**
 - 💬 Ask me about **Full-Stack Development, MVVM architecture, or AI tool integration**
 - 📌 Always shipping something new for the **portfolio** — check out my [projects below](#-featured-projects)
@@ -23,7 +23,7 @@
 ### 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nodejs,express,mongodb,js,ts,html,css,tailwind,vite,sqlite,git,github,vscode,figma,electron" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,nodejs,express,mongodb,mysql,js,ts,html,css,tailwind,vite,sqlite,git,github,vscode,figma,electron" />
 </p>
 
 ---
@@ -33,16 +33,16 @@
 <table>
   <tr>
     <td width="50%">
-      <h4>🗂️ FolderFlow</h4>
-      <p>An automated file organizer for Windows built with WPF (.NET 8) — watches your Downloads folder, logs history to SQLite, and ships with toast notifications, tray support, and an AI categorization scaffold powered by Ollama.</p>
+      <h4>🗂️ Organize Me</h4>
+      <p>An automated file organizer for Windows built with WPF (.NET 8) — watches your Downloads folder, logs history to SQLite, and ships with toast notifications, tray support, and a smart AI-powered categorization system.</p>
       <img src="https://img.shields.io/badge/WPF-.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white" />
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
     </td>
     <td width="50%">
-      <h4>⚡ QuickChange</h4>
-      <p>A system-wide hotkey translator that pops up a floating bubble near your cursor — auto language detection, natural rewrite mode, word-by-word pronunciation breakdown, and local AI inference via Ollama.</p>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" />
+      <h4>💎 B-Gems Ceylon</h4>
+      <p>A professional gemstone e-commerce site for B-Gems Ceylon, specializing in natural Ceylon sapphires and fine gemstones — with full page navigation, MySQL-backed inventory & certification records, Cloudinary media management, a customer inquiry system, and smooth Framer Motion animations.</p>
+      <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -53,10 +53,10 @@
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
     </td>
     <td width="50%">
-      <h4>🌍 Travel & Tourism Platform</h4>
-      <p>A multi-role React/Node.js web app with tailored auth flows for tourists, hotel owners, guides, drivers, and admins — built on Express, Tailwind CSS, and Vite.</p>
-      <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+      <h4>🌿 Ceylon Wild Tour</h4>
+      <p>A client-facing travel website for a Sri Lanka tour brand — a responsive landing page highlighting vehicle & driver-guide services, airport transfers, custom itineraries, and popular packages like the Ceylon Hill Country Tour and Golden Beach Holiday, built with rich visual galleries and smooth animations.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white" />
     </td>
   </tr>
 </table>
